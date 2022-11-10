@@ -1,0 +1,4 @@
+- turbopack + infos
+- app vs pages (api still pages)
+- nextjs 13 docs page
+- templates vs layouts
