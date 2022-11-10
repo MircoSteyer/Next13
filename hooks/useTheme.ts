@@ -8,7 +8,7 @@ export interface UseTheme {
 }
 
 export const useTheme = (): UseTheme => {
-  const [theme, setTheme] = useState<Theme>("light");
+  const [theme, setTheme] = useState<Theme>("dark");
 
   useEffect(() => {
     console.log("runs first", theme);
