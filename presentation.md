@@ -2,3 +2,4 @@
 - app vs pages (api still pages)
 - nextjs 13 docs page
 - templates vs layouts
+- data fetching through server components -> services cannot be wrapped in a context
